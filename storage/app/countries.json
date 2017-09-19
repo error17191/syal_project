@@ -1,0 +1,1514 @@
+[
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.673440Z",
+    "code": "xc",
+    "name": "Crimea"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.625785Z",
+    "code": "sd",
+    "name": "Sudan"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.591664Z",
+    "code": "sh",
+    "name": "Saint Helena"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.652486Z",
+    "code": "km",
+    "name": "Comoros"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.410814Z",
+    "code": "ss",
+    "name": "South Sudan"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.576393Z",
+    "code": "sy",
+    "name": "Syria"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.556621Z",
+    "code": "tj",
+    "name": "Tajikistan"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:14.544429Z",
+    "code": "fk",
+    "name": "Falkland Islands (Malvinas)"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.524610Z",
+    "code": "af",
+    "name": "Afghanistan"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.488825Z",
+    "code": "io",
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:09.229725Z",
+    "code": "nr",
+    "name": "Nauru"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.281694Z",
+    "code": "so",
+    "name": "Somalia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.253730Z",
+    "code": "kp",
+    "name": "North Korea"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.501340Z",
+    "code": "ne",
+    "name": "Niger"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:09.130157Z",
+    "code": "ax",
+    "name": "Aland Islands"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.360374Z",
+    "code": "im",
+    "name": "Isle of Man"
+  },
+  {
+    "continent": "an",
+    "updated_at": "2016-02-09T09:30:09.375562Z",
+    "code": "aq",
+    "name": "Antarctica"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.315706Z",
+    "code": "ir",
+    "name": "Iran"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.846210Z",
+    "code": "va",
+    "name": "Vatican"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.164432Z",
+    "code": "mz",
+    "name": "Mozambique"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.217180Z",
+    "code": "ug",
+    "name": "Uganda"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.198373Z",
+    "code": "mr",
+    "name": "Mauritania"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.110047Z",
+    "code": "mw",
+    "name": "Malawi"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.663445Z",
+    "code": "um",
+    "name": "United States Minor Outlying Islands"
+  },
+  {
+    "continent": "an",
+    "updated_at": "2016-02-09T09:30:14.574621Z",
+    "code": "hm",
+    "name": "Heard Island and McDonald Islands"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.343363Z",
+    "code": "tm",
+    "name": "Turkmenistan"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:13.401232Z",
+    "code": "tk",
+    "name": "Tokelau"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.631369Z",
+    "code": "pn",
+    "name": "Pitcairn"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:09.019040Z",
+    "code": "cu",
+    "name": "Cuba"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.093309Z",
+    "code": "je",
+    "name": "Jersey"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.577127Z",
+    "code": "cx",
+    "name": "Christmas Island"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.609536Z",
+    "code": "cd",
+    "name": "Democratic Republic of the Congo"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.549785Z",
+    "code": "cf",
+    "name": "Central African Republic"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.246083Z",
+    "code": "cg",
+    "name": "Republic of the Congo"
+  },
+  {
+    "continent": "an",
+    "updated_at": "2016-02-09T09:30:13.978379Z",
+    "code": "bv",
+    "name": "Bouvet Island"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.925944Z",
+    "code": "bj",
+    "name": "Benin"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.911958Z",
+    "code": "bi",
+    "name": "Burundi"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.309352Z",
+    "code": "wf",
+    "name": "Wallis and Futuna"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.985705Z",
+    "code": "rw",
+    "name": "Rwanda"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.558412Z",
+    "code": "er",
+    "name": "Eritrea"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.968759Z",
+    "code": "zw",
+    "name": "Zimbabwe"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.948114Z",
+    "code": "et",
+    "name": "Ethiopia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.703020Z",
+    "code": "sj",
+    "name": "Svalbard and Jan Mayen"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.898434Z",
+    "code": "eh",
+    "name": "Western Sahara"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.641557Z",
+    "code": "yt",
+    "name": "Mayotte"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:08.861633Z",
+    "code": "ye",
+    "name": "Yemen"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.838871Z",
+    "code": "dj",
+    "name": "Djibouti"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.865105Z",
+    "code": "td",
+    "name": "Chad"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.883840Z",
+    "code": "tg",
+    "name": "Togo"
+  },
+  {
+    "continent": "an",
+    "updated_at": "2016-02-09T09:30:09.647111Z",
+    "code": "tf",
+    "name": "French Southern Territories"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.885474Z",
+    "code": "lr",
+    "name": "Liberia"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.620840Z",
+    "code": "tv",
+    "name": "Tuvalu"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.818522Z",
+    "code": "gn",
+    "name": "Guinea"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.606661Z",
+    "code": "gg",
+    "name": "Guernsey"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.526638Z",
+    "code": "gq",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "continent": "an",
+    "updated_at": "2016-02-09T09:30:12.512466Z",
+    "code": "gs",
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.493475Z",
+    "code": "gw",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.763591Z",
+    "code": "zm",
+    "name": "Zambia"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.791879Z",
+    "code": "za",
+    "name": "South Africa"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:08.997547Z",
+    "code": "xk",
+    "name": "Kosovo"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.682719Z",
+    "code": "xa",
+    "name": "Abkhazia, Georgia"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.103692Z",
+    "code": "ws",
+    "name": "Samoa"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:13.155887Z",
+    "code": "vu",
+    "name": "Vanuatu"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.123321Z",
+    "code": "vn",
+    "name": "Vietnam"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.449299Z",
+    "code": "vi",
+    "name": "U.S. Virgin Islands"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.438321Z",
+    "code": "vg",
+    "name": "U.K. Virgin Islands"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:13.072550Z",
+    "code": "ve",
+    "name": "Venezuela"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.405901Z",
+    "code": "vc",
+    "name": "Saint Vincent & Grenadines"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.981921Z",
+    "code": "uz",
+    "name": "Uzbekistan"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:12.955049Z",
+    "code": "uy",
+    "name": "Uruguay"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:12.859881Z",
+    "code": "us",
+    "name": "U.S.A."
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.028666Z",
+    "code": "ua",
+    "name": "Ukraine"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.931207Z",
+    "code": "tz",
+    "name": "Tanzania"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:08.732634Z",
+    "code": "tw",
+    "name": "Taiwan"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.797270Z",
+    "code": "tt",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:08.773227Z",
+    "code": "tr",
+    "name": "Turkey"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:12.678379Z",
+    "code": "to",
+    "name": "Tonga"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.103651Z",
+    "code": "tn",
+    "name": "Tunisia"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:13.453945Z",
+    "code": "tl",
+    "name": "East Timor"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.712072Z",
+    "code": "th",
+    "name": "Thailand"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:12.744982Z",
+    "code": "tc",
+    "name": "Turks & Caicos Islands"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.477221Z",
+    "code": "sz",
+    "name": "Swaziland"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.350384Z",
+    "code": "sx",
+    "name": "Sint Maarten"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.138086Z",
+    "code": "sv",
+    "name": "El Salvador"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.585394Z",
+    "code": "st",
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:13.207131Z",
+    "code": "sr",
+    "name": "Suriname"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.261773Z",
+    "code": "sn",
+    "name": "Senegal"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.938322Z",
+    "code": "sm",
+    "name": "San Marino"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.279555Z",
+    "code": "sl",
+    "name": "Sierra Leone"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.229914Z",
+    "code": "sk",
+    "name": "Slovakia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.244714Z",
+    "code": "si",
+    "name": "Slovenia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.596221Z",
+    "code": "sg",
+    "name": "Singapore"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.301326Z",
+    "code": "se",
+    "name": "Sweden"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.175349Z",
+    "code": "sc",
+    "name": "Seychelles"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:13.191181Z",
+    "code": "sb",
+    "name": "Solomon Islands"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.457691Z",
+    "code": "sa",
+    "name": "Saudi Arabia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.629555Z",
+    "code": "ru",
+    "name": "Russia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.192199Z",
+    "code": "rs",
+    "name": "Serbia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.256936Z",
+    "code": "ro",
+    "name": "Romania"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.464410Z",
+    "code": "re",
+    "name": "Reunion"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.056950Z",
+    "code": "qa",
+    "name": "Qatar"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:11.105124Z",
+    "code": "py",
+    "name": "Paraguay"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:11.061968Z",
+    "code": "pw",
+    "name": "Palau"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.080852Z",
+    "code": "pt",
+    "name": "Portugal"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.271780Z",
+    "code": "ps",
+    "name": "Palestinian Territory"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.048572Z",
+    "code": "pr",
+    "name": "Puerto Rico"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.329832Z",
+    "code": "pm",
+    "name": "St. Pierre and Miquelon"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.323057Z",
+    "code": "pl",
+    "name": "Poland"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.080698Z",
+    "code": "pk",
+    "name": "Pakistan"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.295193Z",
+    "code": "ph",
+    "name": "Philippines"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:09.042723Z",
+    "code": "pg",
+    "name": "Papua New Guinea"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:11.215455Z",
+    "code": "pf",
+    "name": "French Polynesia"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:11.260289Z",
+    "code": "pe",
+    "name": "Peru"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.169006Z",
+    "code": "pa",
+    "name": "Panama"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.513221Z",
+    "code": "om",
+    "name": "Oman"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:12.132759Z",
+    "code": "nz",
+    "name": "New Zealand"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.467342Z",
+    "code": "nu",
+    "name": "Niue"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.151809Z",
+    "code": "np",
+    "name": "Nepal"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.045518Z",
+    "code": "no",
+    "name": "Norway"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.010130Z",
+    "code": "nl",
+    "name": "Netherlands"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.984697Z",
+    "code": "ni",
+    "name": "Nicaragua"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.110382Z",
+    "code": "ng",
+    "name": "Nigeria"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.427598Z",
+    "code": "nf",
+    "name": "Norfolk Island"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:09.478854Z",
+    "code": "nc",
+    "name": "New Caledonia"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.087087Z",
+    "code": "na",
+    "name": "Namibia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.548758Z",
+    "code": "my",
+    "name": "Malaysia"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.690032Z",
+    "code": "mx",
+    "name": "Mexico"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.616333Z",
+    "code": "mv",
+    "name": "Maldives"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:14.298630Z",
+    "code": "mu",
+    "name": "Mauritius"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.319636Z",
+    "code": "mt",
+    "name": "Malta"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.383442Z",
+    "code": "ms",
+    "name": "Montserrat"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.370995Z",
+    "code": "mq",
+    "name": "Martinique"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.394294Z",
+    "code": "mp",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.808023Z",
+    "code": "mo",
+    "name": "Macao"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.553942Z",
+    "code": "mn",
+    "name": "Mongolia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.495022Z",
+    "code": "mm",
+    "name": "Myanmar"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:11.527053Z",
+    "code": "ml",
+    "name": "Mali"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.600479Z",
+    "code": "mk",
+    "name": "Macedonia"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:11.582856Z",
+    "code": "mh",
+    "name": "Marshall Islands"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:11.462798Z",
+    "code": "mg",
+    "name": "Madagascar"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.958095Z",
+    "code": "mf",
+    "name": "Saint Martin"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.432665Z",
+    "code": "me",
+    "name": "Montenegro"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.063954Z",
+    "code": "md",
+    "name": "Moldova"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.083789Z",
+    "code": "mc",
+    "name": "Monaco"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.651569Z",
+    "code": "ma",
+    "name": "Morocco"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.922317Z",
+    "code": "ly",
+    "name": "Libya"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:09.888435Z",
+    "code": "lv",
+    "name": "Latvia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.835520Z",
+    "code": "lu",
+    "name": "Luxembourg"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.124002Z",
+    "code": "lt",
+    "name": "Lithuania"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.902227Z",
+    "code": "ls",
+    "name": "Lesotho"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.872081Z",
+    "code": "lk",
+    "name": "Sri Lanka"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.753332Z",
+    "code": "li",
+    "name": "Liechtenstein"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.319777Z",
+    "code": "lc",
+    "name": "Saint Lucia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.785637Z",
+    "code": "lb",
+    "name": "Lebanon"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.848566Z",
+    "code": "la",
+    "name": "Laos"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.607033Z",
+    "code": "kz",
+    "name": "Kazakhstan"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.967943Z",
+    "code": "ky",
+    "name": "Cayman Islands"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.405645Z",
+    "code": "kw",
+    "name": "Kuwait"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:12.389592Z",
+    "code": "kr",
+    "name": "South Korea"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.281671Z",
+    "code": "kn",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:12.368996Z",
+    "code": "ki",
+    "name": "Kiribati"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.454746Z",
+    "code": "kh",
+    "name": "Cambodia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:09.430479Z",
+    "code": "kg",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:12.347487Z",
+    "code": "ke",
+    "name": "Kenya"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.411086Z",
+    "code": "jp",
+    "name": "Japan"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.579763Z",
+    "code": "jo",
+    "name": "Jordan"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:10.358039Z",
+    "code": "jm",
+    "name": "Jamaica"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.221875Z",
+    "code": "it",
+    "name": "Italy"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.733664Z",
+    "code": "is",
+    "name": "Iceland"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.142109Z",
+    "code": "iq",
+    "name": "Iraq"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.817898Z",
+    "code": "in",
+    "name": "India"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.500252Z",
+    "code": "il",
+    "name": "Israel"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.879023Z",
+    "code": "ie",
+    "name": "Ireland"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.940652Z",
+    "code": "id",
+    "name": "Indonesia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.368245Z",
+    "code": "hu",
+    "name": "Hungary"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.348251Z",
+    "code": "ht",
+    "name": "Haiti"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.377271Z",
+    "code": "hr",
+    "name": "Croatia"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:11.386965Z",
+    "code": "hn",
+    "name": "Honduras"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.413013Z",
+    "code": "hk",
+    "name": "Hong Kong"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:08.656207Z",
+    "code": "gy",
+    "name": "Guyana"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:12.665444Z",
+    "code": "gu",
+    "name": "Guam"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:08.695547Z",
+    "code": "gt",
+    "name": "Guatemala"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:08.608489Z",
+    "code": "gr",
+    "name": "Greece"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.742227Z",
+    "code": "gp",
+    "name": "Guadeloupe"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.717676Z",
+    "code": "gm",
+    "name": "Gambia"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:09.770817Z",
+    "code": "gl",
+    "name": "Greenland"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.774733Z",
+    "code": "gi",
+    "name": "Gibraltar"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.826329Z",
+    "code": "gh",
+    "name": "Ghana"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:08.677023Z",
+    "code": "gf",
+    "name": "French Guiana"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:08.713182Z",
+    "code": "ge",
+    "name": "Georgia"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.764211Z",
+    "code": "gd",
+    "name": "Grenada"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:09.674755Z",
+    "code": "gb",
+    "name": "United Kingdom"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:09.700880Z",
+    "code": "ga",
+    "name": "Gabon"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.185109Z",
+    "code": "fr",
+    "name": "France"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.330657Z",
+    "code": "fo",
+    "name": "Faroe Islands"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.516322Z",
+    "code": "fm",
+    "name": "Micronesia"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:12.285054Z",
+    "code": "fj",
+    "name": "Fiji"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.234900Z",
+    "code": "fi",
+    "name": "Finland"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.160531Z",
+    "code": "es",
+    "name": "Spain"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:08.920771Z",
+    "code": "eg",
+    "name": "Egypt"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.092910Z",
+    "code": "ee",
+    "name": "Estonia"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:10.120801Z",
+    "code": "ec",
+    "name": "Ecuador"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:10.037153Z",
+    "code": "dz",
+    "name": "Algeria"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:09.941279Z",
+    "code": "do",
+    "name": "Dominican Republic"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:12.632458Z",
+    "code": "dm",
+    "name": "Dominica"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:09.966411Z",
+    "code": "dk",
+    "name": "Denmark"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.003930Z",
+    "code": "de",
+    "name": "Germany"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.002764Z",
+    "code": "cz",
+    "name": "Czech Republic"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.018089Z",
+    "code": "cy",
+    "name": "Cyprus"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.040179Z",
+    "code": "cw",
+    "name": "Cura\u00e7ao"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:11.033293Z",
+    "code": "cv",
+    "name": "Cape Verde"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.014080Z",
+    "code": "cr",
+    "name": "Costa Rica"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:14.133062Z",
+    "code": "co",
+    "name": "Colombia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.656814Z",
+    "code": "cn",
+    "name": "China"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:10.690773Z",
+    "code": "cm",
+    "name": "Cameroon"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:14.190958Z",
+    "code": "cl",
+    "name": "Chile"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:10.592019Z",
+    "code": "ck",
+    "name": "Cook Islands"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:10.610315Z",
+    "code": "ci",
+    "name": "Cote D'Ivoire"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.628935Z",
+    "code": "ch",
+    "name": "Switzerland"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.230337Z",
+    "code": "cc",
+    "name": "Cocos (K) I."
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:10.849193Z",
+    "code": "ca",
+    "name": "Canada"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:10.494527Z",
+    "code": "bz",
+    "name": "Belize"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.475921Z",
+    "code": "by",
+    "name": "Belarus"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:10.375051Z",
+    "code": "bw",
+    "name": "Botswana"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:10.345263Z",
+    "code": "bt",
+    "name": "Bhutan"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:10.439727Z",
+    "code": "bs",
+    "name": "Bahamas"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:10.400609Z",
+    "code": "br",
+    "name": "Brazil"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.948046Z",
+    "code": "bq",
+    "name": "Bonaire St Eustatius and Saba"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:10.322440Z",
+    "code": "bo",
+    "name": "Bolivia"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:14.029217Z",
+    "code": "bn",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.999436Z",
+    "code": "bm",
+    "name": "Bermuda"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.988920Z",
+    "code": "bl",
+    "name": "Saint Barthelemy"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.900293Z",
+    "code": "bh",
+    "name": "Bahrain"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.299533Z",
+    "code": "bg",
+    "name": "Bulgaria"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:10.277720Z",
+    "code": "bf",
+    "name": "Burkina Faso"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:10.071801Z",
+    "code": "be",
+    "name": "Belgium"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:13.495397Z",
+    "code": "bd",
+    "name": "Bangladesh"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.824798Z",
+    "code": "bb",
+    "name": "Barbados"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:13.728413Z",
+    "code": "ba",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.843612Z",
+    "code": "az",
+    "name": "Azerbaijan"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.261583Z",
+    "code": "aw",
+    "name": "Aruba"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:11.652034Z",
+    "code": "au",
+    "name": "Australia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:12.421325Z",
+    "code": "at",
+    "name": "Austria"
+  },
+  {
+    "continent": "oc",
+    "updated_at": "2016-02-09T09:30:14.340365Z",
+    "code": "as",
+    "name": "American Samoa"
+  },
+  {
+    "continent": "sa",
+    "updated_at": "2016-02-09T09:30:11.795714Z",
+    "code": "ar",
+    "name": "Argentina"
+  },
+  {
+    "continent": "af",
+    "updated_at": "2016-02-09T09:30:13.434738Z",
+    "code": "ao",
+    "name": "Angola"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.758360Z",
+    "code": "am",
+    "name": "Armenia"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:11.773295Z",
+    "code": "al",
+    "name": "Albania"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:13.534338Z",
+    "code": "ai",
+    "name": "Anguilla"
+  },
+  {
+    "continent": "na",
+    "updated_at": "2016-02-09T09:30:14.417117Z",
+    "code": "ag",
+    "name": "Antigua & Barbuda"
+  },
+  {
+    "continent": "as",
+    "updated_at": "2016-02-09T09:30:11.708092Z",
+    "code": "ae",
+    "name": "United Arab Emirates"
+  },
+  {
+    "continent": "eu",
+    "updated_at": "2016-02-09T09:30:14.050096Z",
+    "code": "ad",
+    "name": "Andorra"
+  }
+]

@@ -1,0 +1,16 @@
+#app{
+    margin-top: 100px;
+}
+#app .jumbotron{
+    min-height:400px;
+    position: relative;
+}
+#search_suggestions{
+    position: absolute;
+    z-index: 11;
+}
+
+#search.chosen{
+    background: #EEE;
+    cursor: pointer;
+}
